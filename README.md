@@ -17,3 +17,10 @@
 * [Udemy - Practices Exams by Jason Dion](https://www.udemy.com/course/comptia-security-practice-exams/learn/)
 * [Darril Gibson's mobile app](https://play.google.com/store/apps/details?id=com.learnzapp.securityplus&referrer)
 * [Study Guide reddit post by /u/ASentientToaster](https://www.reddit.com/r/CompTIA/comments/ep2z14/comptia_security_study_guide/)
+
+## Flashcards
+
+* [Security+ Definitions](https://quizlet.com/13001865/security-definitions-flash-cards/)
+* [Security+](https://quizlet.com/139927897/security-flash-cards/)
+
+
