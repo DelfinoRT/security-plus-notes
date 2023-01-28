@@ -15,6 +15,7 @@
 * [Study Guide reddit post by /u/ASentientToaster](https://www.reddit.com/r/CompTIA/comments/ep2z14/comptia_security_study_guide/)
 * [FLASHCARD - Security+ Definitions](https://quizlet.com/13001865/security-definitions-flash-cards/)
 * [FLASHCARD - Security+](https://quizlet.com/139927897/security-flash-cards/)
+* [FLASHCARD - CompTIA Security+ SY0-501 Glossary (full)](https://quizlet.com/303906202/comptia-security-sy0-501-glossary-full-flash-cards/)
 
 
 
