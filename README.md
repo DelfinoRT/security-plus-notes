@@ -16,7 +16,7 @@
 * [FLASHCARD - Security+ Definitions](https://quizlet.com/13001865/security-definitions-flash-cards/)
 * [FLASHCARD - Security+](https://quizlet.com/139927897/security-flash-cards/)
 * [FLASHCARD - CompTIA Security+ SY0-501 Glossary (full)](https://quizlet.com/303906202/comptia-security-sy0-501-glossary-full-flash-cards/)
-* [Dion Training Study Notes] (https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
+* [Dion Training Study Notes](https://github.com/PacktPublishing/CompTIA-Security-SY0-501-Complete-Course-and-Practice-Exam/blob/master/CompTIA%20Security%2B%20(Study%20Notes).pdf)
 
 
 
